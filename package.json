@@ -1,0 +1,24 @@
+{
+  "name": "mini-event-task",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "start": "turbo run start",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "install:all": "npm install && cd apps/web && npm install"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "prettier": "^3.0.0",
+    "turbo": "^1.10.0",
+    "typescript": "^5.0.0"
+  },
+  "packageManager": "pnpm@8.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
