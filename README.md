@@ -130,10 +130,10 @@ mini-event-task/
 ## 📱 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Home+Page)
+<img width="2538" height="1239" alt="image" src="https://github.com/user-attachments/assets/9d3b4d5f-3a1b-4f91-aa95-a8432ba961b9" />
 
 ### Events Page
-![Events Page](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Events+Page)
+<img width="2506" height="1394" alt="image" src="https://github.com/user-attachments/assets/eac55971-0b92-466b-af10-3c67d9f320ca" />
 
 *Note: Actual screenshots would be added here after running the application*
 
