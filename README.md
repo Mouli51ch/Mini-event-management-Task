@@ -152,9 +152,6 @@ mini-event-task/
 - **Prettier**: Code formatting (optional)
 - **Clean Architecture**: Separation of concerns and readable code
 
-## 📚 Documentation
-
-For detailed technical documentation, see [docs/dev-notes.md](docs/dev-notes.md)
 
 ### Project Structure
 
