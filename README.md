@@ -135,7 +135,6 @@ mini-event-task/
 ### Events Page
 <img width="2506" height="1394" alt="image" src="https://github.com/user-attachments/assets/eac55971-0b92-466b-af10-3c67d9f320ca" />
 
-*Note: Actual screenshots would be added here after running the application*
 
 ## 🔧 Development
 
